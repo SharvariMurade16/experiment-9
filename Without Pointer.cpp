@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     int *ptr;
-    int a[5] = { 1,2,4,8,9};
+    int a[5] = { 11,32,53,74,98};
     ptr = &a[0];
     int i;
     for(i=0 ; i<5 ; i++)
