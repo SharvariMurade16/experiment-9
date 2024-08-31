@@ -1,4 +1,4 @@
-# experiment-9
+# Experiment-9
 
 ### AIM
 To effectively use pointers in C++ for accessing array elements and finding the addresses of different data types, focus on mastering pointer operations.
