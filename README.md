@@ -44,7 +44,7 @@ Efficiency: Avoids the overhead of copying large data structures, making it more
 
 Use Case: Ideal for functions that need to modify the input data or when dealing with large data structures where copying would be expensive.
 
-Program Codes:-
+### Program Codes:-
 1)Pointer Array:-
 ~~~ javascript
  //Sharvari Murade
@@ -201,13 +201,19 @@ int main()
 }
 ~~~
 
-Program Output:-
+### Program Outputs:-
 1) <img width="298" alt="Screenshot 2024-08-31 at 4 08 46 PM" src="https://github.com/user-attachments/assets/3a6d5908-b556-4278-8d6c-a7000bb1e9fe">
+
 2) <img width="310" alt="Screenshot 2024-08-31 at 4 31 21 PM" src="https://github.com/user-attachments/assets/e791b297-8dac-4817-a7a9-6d3284edd527">
+
 3) <img width="586" alt="Screenshot 2024-08-31 at 4 35 23 PM" src="https://github.com/user-attachments/assets/ac392258-17e5-49ad-9608-2dfcdef2d0f7">
+
 4) <img width="586" alt="Screenshot 2024-08-31 at 4 38 21 PM" src="https://github.com/user-attachments/assets/e7fceb30-5298-439f-ae9b-3636e9cbca7c">
+
 5) <img width="587" alt="Screenshot 2024-08-31 at 4 40 34 PM" src="https://github.com/user-attachments/assets/0be4992a-184e-45d9-b7e3-017416511091">
+
 6) <img width="290" alt="Screenshot 2024-08-31 at 4 41 57 PM" src="https://github.com/user-attachments/assets/a2cf3f77-7a23-423c-a2e4-a7af146fea3b">
+
 7) <img width="290" alt="Screenshot 2024-08-31 at 4 43 12 PM" src="https://github.com/user-attachments/assets/08affe7b-e8da-4e2e-be00-24a6cde76180">
 
 ### Conclusion
