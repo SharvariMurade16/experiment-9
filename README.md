@@ -1,12 +1,12 @@
 # Experiment-9
 
-### AIM
+### AIM-
 To effectively use pointers in C++ for accessing array elements and finding the addresses of different data types, focus on mastering pointer operations.
 
-### Software Used
+### Software Used-
 VS code
 
-### Problem Statement
+### Problem Statement-
 1.) Write a c++ program to initialize pointers of different data types and print the required values.
 
 2.) Write a c++ program to access elements of array using pointer.
@@ -17,7 +17,7 @@ VS code
 
 5.) Write a c++ program to swap the numbers using call by reference.
 
-# Theory 
+# Theory-
 Pointers in C++ allow direct manipulation of memory addresses, which provides greater flexibility in handling data. They are essential for efficiently managing dynamic data structures and simulating call-by-reference.
 
 Direct Memory Access: Pointers allow direct manipulation of memory locations, which can be more efficient than working with copies of data.
