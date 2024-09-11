@@ -178,7 +178,7 @@ int main()
 ~~~
 7)Pointer Call By Value
 ~~~ javascript
-//Sharvari Murade
+//sharvari murade
 //23070123088
 #include <iostream>
 using namespace std;
@@ -188,17 +188,18 @@ void swap (int a,int b)
     temp=a;
     a=b;
     b=temp;
-    cout<<"Inside swap a: "<<a<<" b: "<<b<<endl;
+    cout<<"Inside swap a: "<<a<<" b:  "<<b<<endl;
 }
 
 int main()
 {
-   int a=11,b=22;
+   int a=7,b=6;
    cout<<"Before swap a: "<<a<<" b: "<<b<<endl;
    swap(a,b);
-   cout<<"After swap a:"<<a<<" b:"<<b<<endl;
+   cout<<"After swap a:"<<a<<" b:  "<<b<<endl;
     return 0;
 }
+
 ~~~
 
 ### Program Outputs:-
@@ -214,7 +215,8 @@ int main()
 
 6) <img width="290" alt="Screenshot 2024-08-31 at 4 41 57 PM" src="https://github.com/user-attachments/assets/a2cf3f77-7a23-423c-a2e4-a7af146fea3b">
 
-7) <img width="290" alt="Screenshot 2024-08-31 at 4 43 12 PM" src="https://github.com/user-attachments/assets/08affe7b-e8da-4e2e-be00-24a6cde76180">
+7) <img width="347" alt="image" src="https://github.com/user-attachments/assets/bff98c5e-9b28-4226-be4c-38ccb077186c">
+
 
 ### Conclusion
 In C++, pointers offer flexibility by allowing direct memory manipulation. Call-by-value creates copies of data, ensuring changes remain local to the function, while call-by-reference provides direct access to the original data, enabling modifications to be reflected outside the function. Both methods are essential for effective data handling and memory management.
